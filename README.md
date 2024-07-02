@@ -9,4 +9,4 @@ This PDF file contains valuable information on OWASP's top ten vulnerabilities, 
 
 # Bug bounty Reports 
 
-the reports above shows the different types of scans (nmap , nikto , sqlmap, zap scan etc.) performed in order to detect any vulnerabilities inside a given platform ( bugcrowd, hackerone). 
+These reports provide a clear idea about OWASP's vulnerabilities by performing different types of scans (nmap , nikto , sqlmap, zap scan etc.) in order to detect any vulnerabilities inside 2 platforms platforms - bugcrowd, hackerone. 
